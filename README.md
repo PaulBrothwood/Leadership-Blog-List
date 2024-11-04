@@ -1,6 +1,6 @@
 # Leadership Blog List
 
-![Leadership Blog Cover]https://github.com/PaulBrothwood/Leadership-Blog-List/blob/main/leadership_cover.jpg.jpg
+![Leadership Blog Cover](https://github.com/PaulBrothwood/Leadership-Blog-List/blob/main/images/leadership_cover.jpg?raw=true)
 
 ### Created by Paul Brothwood, BA(Hons), DipFSM, DipFA, CeFA, CeMAP, PIEMA, REnvP, TechIOSH, PRINCE2 Practitioner, ITIL4 Practitioner, SMSTS Accredited, Scaffold Inspector (CISRS)
 
