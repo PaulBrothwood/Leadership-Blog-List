@@ -1,5 +1,7 @@
 # Leadership Blog List
 
+![Leadership Blog Cover]https://github.com/PaulBrothwood/Leadership-Blog-List/blob/main/leadership_cover.jpg.jpg
+
 ### Created by Paul Brothwood, BA(Hons), DipFSM, DipFA, CeFA, CeMAP, PIEMA, REnvP, TechIOSH, PRINCE2 Practitioner, ITIL4 Practitioner, SMSTS Accredited, Scaffold Inspector (CISRS)
 
 Welcome to the Leadership Blog List. This repository serves as a resource for both emerging and experienced leaders, especially those in project management, operations, and team development. It offers practical insights to improve team performance, foster positive workplace culture, and drive organisational success.
