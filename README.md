@@ -20,8 +20,8 @@ Welcome to the Leadership Blog List. This repository serves as a resource for bo
 4. [Tanveer Naseer’s Blog](https://www.tanveernaseer.com/blog/)
    - Insightful posts on leadership and team engagement, focusing on building strong relationships and achieving strategic goals.
 
-5. [The Ken Blanchard Companies Blog](https://www.kenblanchard.com/Blog)
-   - Offers valuable perspectives on servant leadership and creating inspiring work environments, including Blanchard’s widely respected leadership insights.
+[Modern Servant Leader by Ben Lichtenwalner](https://www.modernservantleader.com/)
+   - A blog dedicated to the principles of servant leadership, providing insights and practical advice for leaders looking to empower their teams through empathy and humility.
 
 6. [Michael Hyatt’s Blog](https://fullfocus.co/blog/)
    - Focuses on productivity, leadership, and personal growth to help leaders make meaningful progress.
